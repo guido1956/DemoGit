@@ -4,3 +4,4 @@ Kan die ingelezen worden in mijn project?
 Ja dat is leuk
 Prachtig
 
+Dit heb ik op de server aangepast
