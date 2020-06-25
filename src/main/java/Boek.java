@@ -16,6 +16,7 @@ public class Boek {
     public void dummy8() {
         System.out.println("Dit is een test");
         System.out.println("Dit is nog een test");
+        System.out.println("Dit is nog een test");
 
     }
 }
