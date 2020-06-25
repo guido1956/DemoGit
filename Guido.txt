@@ -2,4 +2,4 @@ Dit is een testfile
 Die komt van GitHup
 Kan die ingelezen worden in mijn project?
 Ja dat is leuk
-
+Dit heb ik op de server aangepast
