@@ -14,6 +14,7 @@ public class Boek {
     }
 
     public void dummy8() {
+        System.out.println("Dit is een test");
 
     }
 }
